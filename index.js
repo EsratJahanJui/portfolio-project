@@ -28,9 +28,9 @@ servicesButtons.forEach((item) => {
   });
 });
 getService("frontend");
-// END OF SERVICE SECTION
+// END OF SERVICE SECTION========
 
-// ============MIXITUP
+// ============MIXITUP===========
 
 const containerEl = document.querySelector(".projects__container");
 var mixer = mixitup(containerEl, {
